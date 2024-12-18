@@ -8,7 +8,7 @@ import 'package:flutter_application_1/widjets/zoreone.dart';
 void main() {
   runApp(
     MaterialApp(
-      home: ZeroOneWidget()
+      home: Diff()
     )
   );
 }
