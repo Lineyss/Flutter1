@@ -5,9 +5,9 @@ import 'dart:math' as math;
 import 'dart:math' as math;
 
 class ZeroOneWidget extends StatelessWidget {
-          @override
-          Widget build(BuildContext context) {
-            return Container(
+    @override
+    Widget build(BuildContext context) {
+      return Container(
       width: 428,
       height: 926,
       decoration: BoxDecoration(
